@@ -25,6 +25,17 @@ I’m working as a Software Engineer and contributing to building frontend for  
 
 ---
 
+* * *
+
+***
+
+*****
+
+- - -
+
+
+---------------------------------------
+
 ### Hard skills
 
 <p>
