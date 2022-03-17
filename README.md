@@ -1,4 +1,6 @@
-<p align="center">
+### Contact
+
+<p>
   <a href="http://t.me/pxwder">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
   </a>
@@ -10,9 +12,7 @@
   </a>
 </p>
 
-### About Me
-
-I am a Frontend Developer from Russia.
+### About
 
 - 💻 I’m working as a Software Engineer and contributing to building frontend for  web applications.
 - ⚡ In my free time, I solve LeetCode problems and read technical articles.
