@@ -16,9 +16,7 @@
 
 ### About
 
-💻 I’m working as a Software Engineer and contributing to building frontend for  web applications.
-
-⚡ In my free time, I solve LeetCode problems and read technical articles.
+I’m working as a Software Engineer and contributing to building frontend for  web applications. In my free time, I solve LeetCode problems and read technical articles.
 
 ### Soft skills
 
