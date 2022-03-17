@@ -4,13 +4,13 @@
 
 <p align="center">
   <a href="http://t.me/pxwder">
-    <img src="https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
   </a>
   <a href="https://www.linkedin.com/in/chok8356/">
-    <img src="https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
   <a href="mailto:trustforever@mail.ru">
-    <img src="https://img.shields.io/badge/E--Mail-grey?style=for-the-badge&logo=mail.ru&logoColor=white" alt="E-mail Badge">
+    <img src="https://img.shields.io/badge/E--Mail-blue?style=for-the-badge&logo=mail.ru&logoColor=white" alt="E-mail Badge">
   </a>
 </p>
 
@@ -27,7 +27,7 @@ I am a Frontend Developer from Russia.
 
 ---
 
-### 🛠 Languages and Tools
+#### 🛠 Languages and Tools
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" />
