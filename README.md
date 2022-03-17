@@ -44,9 +44,6 @@ I’m working as a Software Engineer and contributing to building frontend for  
 
 ---
 
-### Stats
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chok8356&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://komarev.com/ghpvc/?username=chok8356&style=flat-square&color=blue">
