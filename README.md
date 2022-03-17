@@ -10,8 +10,6 @@
   </a>
 </p>
 
-
-
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">
 
 I’m working as a Software Engineer and contributing to building frontend for  web applications. In my free time, I solve LeetCode problems and read technical articles.
@@ -24,17 +22,6 @@ I’m working as a Software Engineer and contributing to building frontend for  
 - ✔️ Problem-solving
 
 ---
-
-* * *
-
-***
-
-*****
-
-- - -
-
-
----------------------------------------
 
 ### Hard skills
 
