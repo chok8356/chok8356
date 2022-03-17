@@ -39,7 +39,7 @@ I’m working as a Software Engineer and contributing to building frontend for  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" title="Electron" alt="Electron" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-original.svg" title="Jest" alt="Jest" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" />
 </p>
 
 ---
