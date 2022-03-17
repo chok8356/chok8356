@@ -1,5 +1,3 @@
-### Contact
-
 <p>
   <a href="http://t.me/pxwder">
     <img src="https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
