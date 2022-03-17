@@ -27,7 +27,7 @@ I am a Frontend Developer from Russia.
 
 ---
 
-#### 🛠 Languages and Tools
+### 🛠 Languages and Tools
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" />
