@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://i1.sndcdn.com/visuals-000085680409-i7J10v-t1240x260.jpg" width="100%"/>
-</p>
-
-<p align="center">
   <a href="http://t.me/pxwder">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
   </a>
@@ -14,11 +10,7 @@
   </a>
 </p>
 
-<p align="center">
-
-</p>
-
-### 👨‍💻 About Me
+### About Me
 
 I am a Frontend Developer from Russia.
 
@@ -27,7 +19,7 @@ I am a Frontend Developer from Russia.
 
 ---
 
-### 🛠 Languages and Tools
+### Languages and Tools
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" />
@@ -45,7 +37,7 @@ I am a Frontend Developer from Russia.
 
 ---
 
-### 🔥 My Stats
+### Stats
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chok8356&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
