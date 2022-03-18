@@ -14,12 +14,16 @@
 
 I’m working as a Software Engineer and contributing to building frontend for  web applications. In my free time, I working with a pet project <a href="https://web-crawler.net/">web-crawler.net</a>, solve LeetCode problems and read technical articles.
 
+---
+
 ### Soft skills
 
 - 😏 Good communication
 - ⚙️ Teamwork
 - 📓 Creativity and willingness to learn
 - ✔️ Problem-solving
+
+---
 
 ### Hard skills
 
@@ -37,6 +41,8 @@ I’m working as a Software Engineer and contributing to building frontend for  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" />
 </p>
+
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chok8356&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
