@@ -14,6 +14,8 @@
 
 I’m working as a Software Engineer and contributing to building frontend for  web applications. In my free time, I working with a pet project <a href="https://web-crawler.net/">web-crawler.net</a>, solve LeetCode problems and read technical articles.
 
+---
+
 ### Soft skills
 
 - 😏 Good communication
