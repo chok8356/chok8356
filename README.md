@@ -1,12 +1,12 @@
 <p>
   <a href="http://t.me/pxwder">
-    <img src="https://img.shields.io/badge/telegram-grey?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram">
+    <img src="https://img.icons8.com/color/40/000000/telegram-app--v1.png" alt="Telegram"/>
   </a>
   <a href="https://www.linkedin.com/in/chok8356/">
-    <img src="https://img.shields.io/badge/linkedIn-grey?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin">
+    <img src="https://img.icons8.com/color/40/000000/linkedin.png" alt="LinkedIn"/>
   </a>
   <a href="mailto:trustforever@mail.ru">
-    <img src="https://img.shields.io/badge/e--mail-grey?style=for-the-badge&logo=mail.ru&logoColor=white" alt="e-mail">
+    <img src="https://img.icons8.com/fluency/40/000000/mail.png" alt="E-mail"/>
   </a>
 </p>
 
