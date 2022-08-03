@@ -3,6 +3,20 @@
 I’m working as a Software Engineer and contributing to building frontend for web applications. In my free time, I'm
 working with a pet project <a href="https://web-crawler.net/">web-crawler.net</a>
 
+##### Contact
+
+<p>
+  <a href="http://t.me/pxwder">
+    <img src="https://img.icons8.com/color/32/000000/telegram-app--v1.png" alt="Telegram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/chok8356/">
+    <img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:trustforever@mail.ru">
+    <img src="https://img.icons8.com/fluency/32/000000/mail.png" alt="E-mail"/>
+  </a>
+</p>
+
 ---
 
 ### Soft skills
@@ -29,22 +43,6 @@ working with a pet project <a href="https://web-crawler.net/">web-crawler.net</a
 <img src="https://img.shields.io/badge/docker-%23019bc6?style=for-the-badge&logo=docker&logoColor=white" alt="docker">
 <img src="https://img.shields.io/badge/nodejs-%236da55f?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs">
 <img src="https://img.shields.io/badge/jest-%2399425b?style=for-the-badge&logo=jest&logoColor=white" alt="jest">
-</p>
-
----
-
-### Contacts
-
-<p>
-  <a href="http://t.me/pxwder">
-    <img src="https://img.icons8.com/color/40/000000/telegram-app--v1.png" alt="Telegram"/>
-  </a>
-  <a href="https://www.linkedin.com/in/chok8356/">
-    <img src="https://img.icons8.com/color/40/000000/linkedin.png" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:trustforever@mail.ru">
-    <img src="https://img.icons8.com/fluency/40/000000/mail.png" alt="E-mail"/>
-  </a>
 </p>
 
 ---
