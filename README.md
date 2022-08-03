@@ -3,17 +3,17 @@
 I’m working as a Software Engineer and contributing to building frontend for web applications. In my free time, I'm
 working with a pet project <a href="https://web-crawler.net/">web-crawler.net</a>
 
-##### Contact
+#### Contacts
 
 <p>
   <a href="http://t.me/pxwder">
-    <img src="https://img.icons8.com/color/32/000000/telegram-app--v1.png" alt="Telegram"/>
+    <img src="https://img.icons8.com/color/40/000000/telegram-app--v1.png" alt="Telegram"/>
   </a>
   <a href="https://www.linkedin.com/in/chok8356/">
-    <img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/color/40/000000/linkedin.png" alt="LinkedIn"/>
   </a>
   <a href="mailto:trustforever@mail.ru">
-    <img src="https://img.icons8.com/fluency/32/000000/mail.png" alt="E-mail"/>
+    <img src="https://img.icons8.com/fluency/40/000000/mail.png" alt="E-mail"/>
   </a>
 </p>
 
