@@ -6,13 +6,13 @@ working with a pet project <a href="https://web-crawler.net/">web-crawler.net</a
 ##### Contact
 
 <p>
-  <a href="http://t.me/pxwder" target="_blank">
+  <a href="http://t.me/pxwder">
     <img src="https://img.icons8.com/color/32/000000/telegram-app--v1.png" alt="Telegram"/>
   </a>
-  <a href="https://www.linkedin.com/in/chok8356/" target="_blank">
+  <a href="https://www.linkedin.com/in/chok8356/">
     <img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="LinkedIn"/>
   </a>
-  <a href="mailto:trustforever@mail.ru" target="_blank">
+  <a href="mailto:trustforever@mail.ru">
     <img src="https://img.icons8.com/fluency/32/000000/mail.png" alt="E-mail"/>
   </a>
 </p>
