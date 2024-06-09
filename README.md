@@ -1,17 +1,5 @@
 Senior Frontend Developer with over 6 years of experience in designing, developing, and managing user interfaces for web applications. Proven ability to lead teams, communicate effectively with business departments, and deliver high-quality solutions on time. Expertise in TypeScript, JavaScript, Vue, React, and other modern web technologies.
 
-<p>
-  <a href="mailto:chok8356@mail.ru">
-    E-mail
-  </a>
-  <a href="https://www.linkedin.com/in/chok8356/">
-    LinkedIn
-  </a>
-  <a href="http://t.me/pxwder">
-    Telegram
-  </a>
-</p>
-
 ---
 
 <p>
