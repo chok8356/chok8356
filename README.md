@@ -1,33 +1,18 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">
-
-I'am Software Engineer
-
-#### Contacts:
+Senior Frontend Developer with over 6 years of experience in designing, developing, and managing user interfaces for web applications. Proven ability to lead teams, communicate effectively with business departments, and deliver high-quality solutions on time. Expertise in TypeScript, JavaScript, Vue, React, and other modern web technologies.
 
 <p>
-  <a href="http://t.me/pxwder">
-    <img src="https://img.icons8.com/color/40/000000/telegram-app--v1.png" alt="Telegram"/>
+  <a href="mailto:chok8356@mail.ru">
+    E-mail
   </a>
   <a href="https://www.linkedin.com/in/chok8356/">
-    <img src="https://img.icons8.com/color/40/000000/linkedin.png" alt="LinkedIn"/>
+    LinkedIn
   </a>
-  <a href="mailto:trustforever@mail.ru">
-    <img src="https://img.icons8.com/fluency/40/000000/mail.png" alt="E-mail"/>
+  <a href="http://t.me/pxwder">
+    Telegram
   </a>
 </p>
 
 ---
-
-### Soft skills
-
-- 😏 Good communication
-- ⚙️ Teamwork
-- 📓 Creativity and willingness to learn
-- ✔️ Problem-solving
-
----
-
-### Hard skills
 
 <p>
 <img src="https://img.shields.io/badge/typescript-%23007acc?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript">
@@ -43,9 +28,3 @@ I'am Software Engineer
 <img src="https://img.shields.io/badge/nodejs-%236da55f?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs">
 <img src="https://img.shields.io/badge/jest-%2399425b?style=for-the-badge&logo=jest&logoColor=white" alt="jest">
 </p>
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chok8356&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://komarev.com/ghpvc/?username=chok8356&style=flat-square&color=blue">
