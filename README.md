@@ -1,9 +1,13 @@
+### Soft skills
+
 - 😏 Pleasant communication
 - ⚙️ Teamwork
 - 📓 Creativity and willingness to learn
 - ✔️ Problem solving
 
 ---
+
+### Hard skills
 
 <p>
 <img src="https://img.shields.io/badge/typescript-%23007acc?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript">
