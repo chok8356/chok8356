@@ -1,4 +1,7 @@
-Senior Frontend Developer with over 6 years of experience in designing, developing, and managing user interfaces for web applications. Proven ability to lead teams, communicate effectively with business departments, and deliver high-quality solutions on time. Expertise in TypeScript, JavaScript, Vue, React, and other modern web technologies.
+😏 Pleasant communication
+⚙️ Teamwork
+📓 Creativity and willingness to learn
+✔️ Problem solving
 
 ---
 
