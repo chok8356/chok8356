@@ -1,7 +1,7 @@
-😏 Pleasant communication
-⚙️ Teamwork
-📓 Creativity and willingness to learn
-✔️ Problem solving
+- 😏 Pleasant communication
+- ⚙️ Teamwork
+- 📓 Creativity and willingness to learn
+- ✔️ Problem solving
 
 ---
 
