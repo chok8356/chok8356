@@ -1,4 +1,4 @@
-Senior Frontend Developer with 6+ years of experience in developing user interfaces for web applications. Successful track record of leading teams, communicating effectively with business units of organizations and delivering projects on time. I work with HTML, CSS, JavaScript, Typescript and modern frameworks such as Vue.js and React. Experience working in Agile teams, good leadership and management skills. Constantly developing and trying new things.
+I am engaged in the development of user interfaces for web applications. Successful experience in leading teams, communicating effectively with business units of organizations and delivering projects on time. I work with HTML, CSS, JavaScript, Typescript and modern frameworks such as Vue.js and React. Experience working in Agile teams, good leadership and management skills. Constantly developing and trying new things.
 
 ---
 
