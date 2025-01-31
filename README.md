@@ -1,4 +1,4 @@
-I am engaged in the development of user interfaces for web applications. Successful experience in leading teams, communicating effectively with business units of organizations and delivering projects on time. I work with HTML, CSS, JavaScript, Typescript and modern frameworks such as Vue.js and React. Experience working in Agile teams, good leadership and management skills. Constantly developing and trying new things.
+I am a specialist in user interface development for web applications with a successful track record of leading teams and delivering projects on time. I am proficient in HTML, CSS, JavaScript, TypeScript, and modern frameworks (Vue.js, React). I work effectively in an Agile environment, am able to establish interaction with business units and solve complex problems quickly, which helps to improve the quality of the product.
 
 ---
 
