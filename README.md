@@ -1,4 +1,7 @@
-I am a specialist in user interface development for web applications with a successful track record of leading teams and delivering projects on time. I am proficient in HTML, CSS, JavaScript, TypeScript, and modern frameworks (Vue.js, React). I work effectively in an Agile environment, am able to establish interaction with business units and solve complex problems quickly, which helps to improve the quality of the product.
+Frontend Team Lead with experience in developing complex web applications. I write in TypeScript, work with modern frameworks Vue.js and React, and adhere to SOLID principles and Clean Architecture.  
+Led teams and established processes, creating scalable solutions (SPA applications, Web Components, UI Kit).  
+Actively managed all stages of product development — from architecture, automation, implementing testing, and setting up CI/CD to team building and strategic planning.  
+Focused on results, product value, and developer experience.
 
 ---
 
